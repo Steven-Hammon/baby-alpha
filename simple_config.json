@@ -1,0 +1,14 @@
+{
+    "document_title": "Baby Alpha: Can we build a tiny basic Python autonomous agent that copies how people brainstorm, judge, and rewrite ideas on its own? Would this back-and-forth loop stop the AI from either hallucinating or just repeating its training data, and instead spark truly new ideas? Can it take ideas from the world and combine them in truly novel ways to solve a problem? What sort of code would be needed, and how would it work? And how might an open source agent like that change the world?",
+    "document_path": "project_document.txt",
+    "gen_model": "gemma3:12b-it-qat",
+    "temperature_general": 0.7,
+    "temperature_brainstorm_min": 0.5,
+    "temperature_brainstorm_max": 1.0,
+    "temperature_synthesis": 0.4,
+    "max_iterations_simple": 100,
+    "max_backup_files": 50,
+    "max_convo_log_size_mb": 20,
+    "number_pred_simple": 16384,
+    "number_ctx_simple": 32768
+}

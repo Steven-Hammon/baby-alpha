@@ -1,0 +1,14 @@
+{
+    "document_title": "Since we must have free speech, and we must protect children from harmful content, we need to introduce a new system where parents can easily make informed decisions about whether content is safe at a glance. How can the public make informed decisions based on the journalism code of ethics in a world full of psychologically manipulative texts, without censoring free speech, and with minimal changes to the media distribution system we currently have?",
+    "document_path": "project_document.txt",
+    "gen_model": "gemma3:12b-it-qat",
+    "temperature_general": 0.7,
+    "temperature_brainstorm_min": 0.5,
+    "temperature_brainstorm_max": 1.0,
+    "temperature_synthesis": 0.4,
+    "max_iterations_simple": 500,
+    "max_backup_files": 50,
+    "max_convo_log_size_mb": 20,
+    "number_pred_simple": 16384,
+    "number_ctx_simple": 32768
+}

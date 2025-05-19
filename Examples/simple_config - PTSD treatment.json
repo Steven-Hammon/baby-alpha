@@ -1,0 +1,14 @@
+{
+    "document_title": "Using current neuroscience, behavioral science, and philosophical insights to frame the unresolved mechanisms of mind and trauma. This paper will explore what elements can come together from these fields of expertise and others, in order to create an evidence-informed technique or process or intellectual tool, that clinicians can use to guide clients in sessions. These clients can self-apply this technique or process or intellectual tool, to blunt acute (and potentially severe) PTSD symptoms. After defining the disorder’s core features, we will detail the interdisciplinary origins of each component of the technique or process or intellectual tool. Then we map the step-by-step process for the technique or process or intellectual tool to be delivered in sessions. Furthermore, we will explain how these steps help, and why they help, and what their purpose is in the guiding session. We conclude with a testable hypothesis on expected clinical and home-based outcomes, laying the groundwork for empirical validation.",
+    "document_path": "project_document.txt",
+    "gen_model": "gemma3:12b-it-qat",
+    "temperature_general": 0.7,
+    "temperature_brainstorm_min": 0.5,
+    "temperature_brainstorm_max": 1.0,
+    "temperature_synthesis": 0.4,
+    "max_iterations_simple": 500,
+    "max_backup_files": 50,
+    "max_convo_log_size_mb": 20,
+    "number_pred_simple": 16384,
+    "number_ctx_simple": 32768
+}

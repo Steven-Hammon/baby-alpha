@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+*.env
+.env
+*.egg-info/
+dist/
+build/
+
+# Logs and Output Directories from Baby Alpha
+logs/
+document_backups/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific (add more as needed)
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Distribution / packaging
+*.egg
+*.whl
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~

@@ -1,0 +1,7 @@
+TITLE: Baby Alpha: A Framework for AI-Driven Iterative Research and Novel Idea Generation
+
+Abstract:
+AIs are known for being exceptionally inefficient at coming up with plausible and valid novel ideas. They are either just wrong and hallucinating or they are sticking to the strict consistency of their training data. But what if we could get it using human processes to generate ideas, save the best, and improve the ideas over and over autonomously? This document will explore the concept and potential of an AI agent designed to iteratively refine research papers and brainstorm novel solutions to complex problems.
+
+Introduction:
+Human beings have processes they use to solve problems. Businesses use these processes to help their teams of workers solve problems. Currently, LLMs require a human being to type in the prompts for the LLM. But more and more people are building autonomous agents that can work on something without human intervention, the Agent going through step by step to accomplish a goal. What if the goal is novel research? How could we make a super basic Python agent that iteratively improves any problem areas of a research paper with brainstorming, like putting 2 and 2 together to get something totally new? What would it look like? How would it work? What sort of libraries should it use and how should it be set up? And based on that, what sort of things could it accomplish and how could it impact the world?
