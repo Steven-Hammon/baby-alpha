@@ -36,7 +36,7 @@ The goal is to create a foundational tool that can autonomously explore topics, 
 ## How It Works
 
 
-[Baby Alpha Flowchart](https://i.imgur.com/wY0j6Fv.jpeg)
+<blockquote class="imgur-embed-pub" lang="en" data-id="wY0j6Fv" data-context="false" ><a href="//imgur.com/wY0j6Fv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Briefly, Baby Alpha takes an initial document and iteratively refines it by:
 1.  Identifying a "Con" (problem).
