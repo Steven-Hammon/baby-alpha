@@ -35,8 +35,8 @@ The goal is to create a foundational tool that can autonomously explore topics, 
 
 ## How It Works
 
-*(Here you can insert the flowchart image you are creating! Example:)*
-`![Baby Alpha Flowchart](link_to_your_flowchart_image.png)`
+
+`![Baby Alpha Flowchart](https://i.imgur.com/VXjMrwi.jpeg)`
 
 Briefly, Baby Alpha takes an initial document and iteratively refines it by:
 1.  Identifying a "Con" (problem).
